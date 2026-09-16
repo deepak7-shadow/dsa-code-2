@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int arr[] = {10, 15, 20, 25, 30, 35};
+    int arr[] = {10, 15, 20, 25, 30, 35, 40, 45};
     int n = 6;
 
     int even = 0, odd = 0;
