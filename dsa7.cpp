@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int arr[] = {12, 11, 13, 5, 6};
+    int arr[] = {12, 11, 13, 5, 6, 7, 8};
     int n = 5;
 
     for (int i = 1; i < n; i++) {
