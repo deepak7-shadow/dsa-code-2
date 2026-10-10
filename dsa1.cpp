@@ -13,9 +13,9 @@ int main() {
     }
 
     if (original == reverse)
-        cout << "Palindrome";
+        cout << "Is a Palindrome";
     else
-        cout << "Not a palindrome";
+        cout << "It is Not a palindrome";
 
     return 0;
 }
