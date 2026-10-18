@@ -16,7 +16,7 @@ void push(int value) {
 
 void pop() {
     if (top == -1) {
-        cout << "Stack Underflow\n";
+        cout << "----- Stack Underflow -----\n";
     } else {
         cout << "Deleted: " << stackArr[top--] << endl;
     }
